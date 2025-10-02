@@ -1,3 +1,20 @@
+
+Länk till hemsidan: https://blue-mud-0aaf18303.1.azurestaticapps.net \
+
+Jag började med att skapa själva hemsidan i react där jag skrev om mig själv och la till länkar till tidigare projekt jag arbetat med. \
+\
+![bild beskrivning] (/images/reactVisualStudioJavaScript.jpeg) \
+\
+Därefter skapade jag enkel CSS för att göra sidan mer läsbar \
+\
+![bild beskrivning] (/images/hemsidansCss.jpeg)\
+\
+Därefter la jag upp projektet på github för att kunna koppla till azure senare i processen. I azure började jag med att logga in och skapade en reasource group och i den skapade jag och la in en static web service. Där i länkade jag github repositoryt till static web servicen för att få upp sidan till molnet! \
+\
+![bild beskrivning] (/images/azureResourcegroup.jpeg)\
+![bild beskrivning] (/images/azure.jpeg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
